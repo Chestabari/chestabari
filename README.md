@@ -24,13 +24,6 @@ I love building high-performance applications and contributing to open-source pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" title="Next.js"/>
 </p>
 
-
----
-## 📊 GitHub Stats  
-
- 
-
-
 ---
 
 ## 🏆 Featured Projects  
@@ -48,9 +41,9 @@ I love building high-performance applications and contributing to open-source pr
 
 ### 🔗 Let's Connect  
 <p align="left">
-  <a href="mailto:Udaybari17@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/uday-bari-324hu/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://x.com/uday324_17?t=MxOtL6pr8nIbNH_r_dtxbQ&s=09" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter X" width="40" 
+  <a href="mailto:chestabari@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/chesta-bari-739831219/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://x.com/BariChesta" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter X" width="40" 
   height="40"/>
 </a>
 
