@@ -36,6 +36,7 @@ I love building high-performance applications and contributing to open-source pr
 ✔ Built with React, Node.js, Express, MongoDB, TailwindCSS & Cloudinary**
 
 **🚀 Live Demo:**[ https://study-notion-edtech-platform-olive.vercel.app/ ]
+[View Live Streamlit Dashboard](https://customerbehavioranalysis-czqebs3ycqoh9co6knmp4k.streamlit.app/)
 
 ---
 
