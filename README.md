@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chesta Bari  
 
-🚀 **Mern-Stack Developer | Open-Source Enthusiast | DSA | AI & ML Learner**  
+🚀 **Data Analytics | Mern-Stack Developer | Open-Source Enthusiast | DSA | AI & ML Learner**  
 
 Passionate about **🚀"Web Development | DevOps | Scalable & Automated Solutions", Gen-AI, ML**.   
 I love building high-performance applications and contributing to open-source projects.
